@@ -1,0 +1,13 @@
+.footer {
+    background-color: #CCE5FF;
+    padding: 20px;
+    bottom: 0;
+    margin-top: 10px;
+
+}
+
+@media screen and (min-width: 545px) {
+    .footer {
+     position: absolute;
+    }
+}
